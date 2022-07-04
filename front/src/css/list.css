@@ -1,0 +1,27 @@
+.container-list {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.dashboard {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.ant-list {
+    width: 50%;
+    background-color: #fff;
+    border-color: rgba(0, 0, 0, 0.8);
+    margin: 150px 200px 80px 0 !important;
+}
+
+.ant-list-header,
+.ant-list-footer {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}

@@ -1,0 +1,9 @@
+.containerRec {
+    background-image: url(../imgs/bg_medR.png);
+    height: 1000px;
+}
+
+.appointmentTableRecords {
+    margin: 100px 400px;
+    position: relative;
+}

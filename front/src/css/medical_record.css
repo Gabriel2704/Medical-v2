@@ -1,0 +1,39 @@
+.containerMR {
+    background-image: url(../imgs/bg_medR.png);
+    height: 1500px;
+}
+
+.timeline {
+    width: 70%;
+    height: 25%;
+    background-color: rgb(90, 136, 221);
+    margin: 2% auto;
+    border-radius: 15px;
+}
+
+.timeline h1 {
+    text-align: center;
+    padding-top: 3%;
+    color: white;
+}
+
+.details-row {
+    display: flex;
+    margin: 3% 5% 0 5%;
+    max-width: 95%;
+}
+
+.details {
+    flex: 50%;
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px 20px;
+    margin: 0 2%;
+    text-align: center;
+}
+
+.container-list-medical {
+    text-align: center;
+    width: 40%;
+    margin-top: -50px;
+}
